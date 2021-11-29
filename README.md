@@ -1,5 +1,8 @@
 # react_vscode_ext
 
+## Power Mode
+https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode
+
 ## eslint
 https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 ## prettier
