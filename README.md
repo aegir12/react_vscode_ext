@@ -43,3 +43,7 @@ https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-edge
 
 ## search editor apply changes
 https://marketplace.visualstudio.com/items?itemName=jakearl.search-editor-apply-changes
+## glean
+## tabout
+## vscode styled components
+## bookmark
