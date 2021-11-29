@@ -1,0 +1,13 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "powermode.enabled": true,
+  "editor.renderWhitespace": "all",
+  "workbench.colorCustomizations": {
+    "editorWhitespace.foreground": "#FFFFFF00"
+  },
+  "eslint.packageManager": "yarn",
+  "npm.packageManager": "yarn"
+}
